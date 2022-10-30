@@ -1,0 +1,1 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[13],{296:function(e,t,o){"use strict";o.r(t);var _=o(0),n=o.n(_),u=o(48);const c=({quote:e,cite:t})=>e?n.a.createElement(u.Blockquote,{quote:e,cite:t}):null;c.displayName="BlockQuoteComponent",t.default=c}}]);

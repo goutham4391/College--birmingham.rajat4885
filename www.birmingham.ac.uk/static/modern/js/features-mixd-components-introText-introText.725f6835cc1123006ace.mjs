@@ -1,0 +1,1 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[22],{303:function(e,t,_){"use strict";_.r(t);var r=_(0),l=_.n(r),n=_(48);t.default=({text:e,textSize:t})=>{console.log("IntroText",e,t);let _="";return"Small"===t?_="small":"Large"===t&&(_="large"),l.a.createElement(n.IntroText,{modifier:_,text:e})}}}]);
